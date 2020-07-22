@@ -1,29 +1,29 @@
 function play(){
-	var audio1=new Audio('sounds/note1.wav');
+	var audio1=new Audio('note1.wav');
 	//document.querySelector(".sa").addEventListener("click",audio1.p());
 //};
 //function play(){
-	var audio2=new Audio('sounds/note2.wav');
+	var audio2=new Audio('note2.wav');
 	//document.querySelector(".re").addEventListener("click",audio2.l());
 //};
 //function play(){
-	var audio3=new Audio('sounds/note3.wav');
+	var audio3=new Audio('note3.wav');
 	//document.querySelector(".ga").addEventListener("click",audio3.a());
 //};
 //function play(){
-	var audio4=new Audio('sounds/note4.wav');
+	var audio4=new Audio('note4.wav');
 	//document.querySelector(".ma").addEventListener("click",audio4.y());
 //};
 //function play(){
-	var audio5=new Audio('sounds/note5.wav');
+	var audio5=new Audio('note5.wav');
 	//document.querySelector(".pa").addEventListener("click",audio5.m());
 //};
 //function play(){
-	var audio6=new Audio('sounds/note6.wav');
+	var audio6=new Audio('note6.wav');
 	//document.querySelector(".da").addEventListener("click",audio6.e());
 //};
 //function play(){
-	var audio7=new Audio('sounds/note7.wav');
+	var audio7=new Audio('note7.wav');
 	//document.querySelector(".ni").addEventListener("click",audio7.is());
 //};
 
